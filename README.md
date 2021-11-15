@@ -19,4 +19,4 @@
 ***
 # 中間発表
 [Medium]()
-[スライド]()
+[スライド](https://docs.google.com/presentation/d/1ad8BFHgjr9OBvdUSHbB6M1GC7PNL7rRG1BY1l6NUzFU/edit?usp=sharing)
