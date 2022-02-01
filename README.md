@@ -18,7 +18,7 @@ GIGAスクール構想とは全国の児童1人に1台のコンピュータと�
 ③スプレッドシートにGithubの項目を移し、csv形式にする。
 
 # Result
-* [Githubの47都道府県ごとのissue](city.ichihara.chiba.jp/article?articleId=60237db4ece4651c88c19043)
+* [Githubの47都道府県ごとのissue](https://github.com/furuhashilab/2021gsc_YunaHomma/issues)
 * [東北地方のホワイトリスト](https://docs.google.com/spreadsheets/d/1YPIrOgq48yOxapQbGBysyn8jrRr4Pb3vHvyUTb5SNrY/edit?usp=sharing)
 * [関東地方のホワイトリスト](https://docs.google.com/spreadsheets/d/1zd6fYG4H_mtJaJIlpgnsrxzaJfIMTlbl10hJ6vHImWI/edit?usp=sharing)
 * [中部地方のホワイトリスト](https://docs.google.com/spreadsheets/d/1nxfYpK2U7ehzR2eqKGmK1S9PT-JF1fwPGSpZEX6zbB4/edit?usp=sharing)
