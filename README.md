@@ -19,7 +19,11 @@ GIGAスクール構想とは全国の児童1人に1台のコンピュータと�
 
 # Result
 * [Githubの47都道府県ごとのissue](city.ichihara.chiba.jp/article?articleId=60237db4ece4651c88c19043)
-* 
+* [東北地方のホワイトリスト](https://docs.google.com/spreadsheets/d/1YPIrOgq48yOxapQbGBysyn8jrRr4Pb3vHvyUTb5SNrY/edit?usp=sharing)
+* [関東地方のホワイトリスト](https://docs.google.com/spreadsheets/d/1zd6fYG4H_mtJaJIlpgnsrxzaJfIMTlbl10hJ6vHImWI/edit?usp=sharing)
+* [中部地方のホワイトリスト](https://docs.google.com/spreadsheets/d/1nxfYpK2U7ehzR2eqKGmK1S9PT-JF1fwPGSpZEX6zbB4/edit?usp=sharing)
+* [関西地方のホワイトリスト](https://docs.google.com/spreadsheets/d/1xkz8ThZncPsf8nfqdsKyf567ORbZLSWUX7BmJChrRWo/edit?usp=sharing)
+
 
 
 # Discussion
