@@ -24,6 +24,9 @@ GIGAスクール構想とは全国の児童1人に1台のコンピュータと�
 * [関東地方のホワイトリスト](https://docs.google.com/spreadsheets/d/1zd6fYG4H_mtJaJIlpgnsrxzaJfIMTlbl10hJ6vHImWI/edit?usp=sharing)
 * [中部地方のホワイトリスト](https://docs.google.com/spreadsheets/d/1nxfYpK2U7ehzR2eqKGmK1S9PT-JF1fwPGSpZEX6zbB4/edit?usp=sharing)
 * [関西地方のホワイトリスト](https://docs.google.com/spreadsheets/d/1xkz8ThZncPsf8nfqdsKyf567ORbZLSWUX7BmJChrRWo/edit?usp=sharing)
+* [中国地方のホワイトリスト](https://docs.google.com/spreadsheets/d/1YiR_smOQS3qCc95tFbS6g2L79wGBe1Jt-6VsPP4ZkoM/edit?usp=sharing)
+* [四国地方のホワイトリスト](https://docs.google.com/spreadsheets/d/1YiR_smOQS3qCc95tFbS6g2L79wGBe1Jt-6VsPP4ZkoM/edit?usp=sharing)
+* [九州地方のホワイトリスト](https://docs.google.com/spreadsheets/d/1YNUwRX9Xkz1n_tO-sz84LQBmuJpqb1qsAmLZQhdwzNk/edit?usp=sharing)
 
 
 
@@ -33,7 +36,7 @@ GIGAスクール構想とは全国の児童1人に1台のコンピュータと�
 自治体のウェブサイトのサーバーを使用しているのは、市区町村の地図、ハザードマップ、施設一覧、AED等、様々な分野の地図が挙げられます。そのため、自治体独自のドメインをもつ地図が多くあり、それらの様々な分野の地図の中で、小中高生に最も見てもらいたいと思ったハザードマップを、ホワイトリストとして主にまとめています。
 外郭団体が運営する地理系ウェブサイトは、統合型GISなどのプラットフォーム、観光系の2つが多く見られます。統合型GISで多くの自治体が利用しているのが、我が街ガイドのドメインが挙げられます。我が街ガイドとは地図や画像を利用して行政情報や地域情報をインターネットを通じて、公開・提供するサイトで、公開されている情報はオープンデータとなっています。
 また、庁内情報共有GIS SonicWeb-i/-EXTもドメインとして多く利用されていました。町内情報共有の加速、住民サービスの向上、業務の効率化を目的としたプラットフォームです。
-さらに、自治体のウェブサイトの中でGoogle Mapを活用している場合も多数みられました。
+さらに、パスコの統合型GISのものや、自治体のウェブサイトの中でGoogle Mapを活用している場合も多数みられました。
 今回のホワイトリストで特に旅行マップは補えていない場合がありますので、今後追加を出来たらと思います。
 
 ***
