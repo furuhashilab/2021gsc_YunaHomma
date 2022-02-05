@@ -1,0 +1,32 @@
+Area,Sample Site,Sample URL,Domain
+行政,地理院地図,https://maps.gsi.go.jp,https://maps.gsi.go.jp
+行政,ひなたGIS,https://hgis.pref.miyazaki.lg.jp/hinata,https://hgis.pref.miyazaki.lg.jp
+行政,PLATEAU,https://www.mlit.go.jp,https://www.mlit.go.jp
+行政,RESASRESAS,https://resas.go.jp,https://resas.go.jp
+行政,ハザードマップポータルサイト,https://disaportal.gsi.go.jp,https://disaportal.gsi.go.jp
+行政,外務省,https://www.mofa.go.jp/mofaj/area/index.html,https://www.mofa.go.jp
+行政,地図で見る統計（jSTAT MAP),https://jstatmap.e-stat.go.jp/jstatmap/main/base.html?1642050931811,https://jstatmap.e-stat.go.jp
+行政,総務省統計局,https://www.stat.go.jp/data/chiri/map/index.html,https://www.stat.go.jp
+行政,防災科研,https://www.bosai.go.jp/sp,https://www.bosai.go.jp
+行政,地震に関する調査（政府 地震調査推進本部）,https://www.jishin.go.jp/evaluation/,https://www.jishin.go.jp
+非営利,OpenStreetMap,https://www.openstreetmap.org,https://www.openstreetmap.org
+非営利,OpenAerialMap,https://openaerialmap.org,https://openaerialmap.org
+民間,Google Maps,https://maps.google.com,https://maps.google.com
+民間,Google Earth,https://maps.google.com,https://maps.google.com
+民間,Google Earth Engine,https://earthengine.google.com,https://earthengine.google.com
+民間,Yahoo!地図,https://map.yahoo.co.jp,https://map.yahoo.co.jp
+民間,Mapion,https://www.mapion.co.jp,https://www.mapion.co.jp
+民間,Mapillary,https://www.mapillary.com,https://www.mapillary.com
+民間,GitHub(Gist含む),http://github.com,http://github.com
+民間,GitHub Pages,https://github.io,https://github.io
+民間,Geocaching,https://www.geocaching.com,https://www.geocaching.com
+民間,Map Fun,https://mapfan.com/,https://mapfan.com
+民間,NAVITIME,https://www.navitime.co.jp/map/,https://www.navitime.co.jp
+民間,地図ナビ,https://www.map-navi.com/,https://www.map-navi.com/
+民間,JORUDAN,https://www.jorudan.co.jp/,https://www.jorudan.co.jp
+民間,政府機関オープンデータポータル,https://esrij-gov-japan.hub.arcgis.com/,https://esrij-gov-japan.hub.arcgis.com
+民間,maptiler,"https://maptiler.jp/maps/?_gl=1*lgd10f*_ga*MTg3MjYxMjgxOC4xNjQyMDUxMzkw*_ga_K4SXYBF4HT*MTY0MjA1MTM4OS4xLjEuMTY0MjA1MTQwMC40OQ..&_ga=2.85271696.888731717.1642051391-1872612818.1642051390#streets//vector/3.87/137.48/38.66, maptiler",https://maptiler.jp
+民間,みんなの行政地図,https://minchizu.jp/index.html,https://minchizu.jp
+民間,geojson.io,https://geojson.io/mobile.html#map=2/20.0/0.0,https://geojson.io
+民間,一般財団法人 日本地図センター,https://www.jmc.or.jp/index.html,https://www.jmc.or.jp
+民間,Map Expert,https://www.metaware.co.jp/,https://www.metaware.co.jp
