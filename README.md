@@ -54,3 +54,6 @@ GIGAスクール構想とは全国の児童1人に1台のコンピュータと�
 
 *****
 # [project](https://github.com/furuhashilab/sotsuron2021/projects/6)
+
+# スライド
+[最終発表スライド](https://docs.google.com/presentation/d/1_zX3IrawRgveUjh0JJ0ji9Vl1uYvkge5aXa_yM19rqM/edit?usp=sharing)
